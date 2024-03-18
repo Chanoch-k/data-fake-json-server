@@ -1,0 +1,327 @@
+{
+    "overviewTotalAmount": [
+        {
+            "TotalAmounts": "71063.40",
+            "GeneralTarget": 800000,
+            "Percentage": "8"
+        }
+    ],
+    "overviewGroup": [
+        {
+            "AmbassadorID": 3,
+            "NameAmbassador": "אברכים",
+            "GroupGoal": "357033.00",
+            "sum": "35415",
+            "Percent": "9"
+        },
+        {
+            "AmbassadorID": 5,
+            "NameAmbassador": "בחורים",
+            "GroupGoal": "157601.00",
+            "sum": "2916",
+            "Percent": "1"
+        },
+        {
+            "AmbassadorID": 26,
+            "NameAmbassador": "חברה י\"א",
+            "GroupGoal": "9847.00",
+            "sum": "298",
+            "Percent": "3"
+        },
+        {
+            "AmbassadorID": 27,
+            "NameAmbassador": "חברה י\"ד",
+            "GroupGoal": "8410.00",
+            "sum": "930",
+            "Percent": "11"
+        },
+        {
+            "AmbassadorID": 28,
+            "NameAmbassador": "חברה י\"ג",
+            "GroupGoal": "14835.00",
+            "sum": "1400",
+            "Percent": "9"
+        },
+        {
+            "AmbassadorID": 29,
+            "NameAmbassador": "חברה ד",
+            "GroupGoal": "8716.00",
+            "sum": "147",
+            "Percent": "1"
+        },
+        {
+            "AmbassadorID": 30,
+            "NameAmbassador": "חברה ט\"ו",
+            "GroupGoal": "12429.00",
+            "sum": "1115",
+            "Percent": "8"
+        },
+        {
+            "AmbassadorID": 31,
+            "NameAmbassador": "חברה י\"ז",
+            "GroupGoal": "15040.00",
+            "sum": "2140",
+            "Percent": "14"
+        },
+        {
+            "AmbassadorID": 32,
+            "NameAmbassador": "חברה י\"ט",
+            "GroupGoal": "12572.00",
+            "sum": "1662",
+            "Percent": "13"
+        },
+        {
+            "AmbassadorID": 33,
+            "NameAmbassador": "חברה ט\"ז",
+            "GroupGoal": "20315.00",
+            "sum": "2763",
+            "Percent": "13"
+        },
+        {
+            "AmbassadorID": 34,
+            "NameAmbassador": "חברה ב",
+            "GroupGoal": "9753.00",
+            "sum": "661",
+            "Percent": "6"
+        },
+        {
+            "AmbassadorID": 35,
+            "NameAmbassador": "חברה י",
+            "GroupGoal": "10894.00",
+            "sum": "1164",
+            "Percent": "10"
+        },
+        {
+            "AmbassadorID": 36,
+            "NameAmbassador": "חברה י\"ב",
+            "GroupGoal": "7790.00",
+            "sum": "1021",
+            "Percent": "13"
+        },
+        {
+            "AmbassadorID": 37,
+            "NameAmbassador": "חברה ג",
+            "GroupGoal": "15332.00",
+            "sum": "1681",
+            "Percent": "10"
+        },
+        {
+            "AmbassadorID": 38,
+            "NameAmbassador": "חברה י\"ח",
+            "GroupGoal": "11793.00",
+            "sum": "8889",
+            "Percent": "75"
+        },
+        {
+            "AmbassadorID": 39,
+            "NameAmbassador": "חברה ו",
+            "GroupGoal": "15553.00",
+            "sum": "915",
+            "Percent": "5"
+        },
+        {
+            "AmbassadorID": 40,
+            "NameAmbassador": "חברה ז",
+            "GroupGoal": "12626.00",
+            "sum": "1798",
+            "Percent": "14"
+        },
+        {
+            "AmbassadorID": 41,
+            "NameAmbassador": "חברה ה",
+            "GroupGoal": "13700.00",
+            "sum": "1571",
+            "Percent": "11"
+        },
+        {
+            "AmbassadorID": 42,
+            "NameAmbassador": "חברה ט",
+            "GroupGoal": "18208.00",
+            "sum": "1538",
+            "Percent": "8"
+        }
+    ],
+    "oerviewFundraiser": [
+        {
+            "ID": 817,
+            "LastName": "ישראלי",
+            "FirstName": "אברהם",
+            "WebName": "הר''ר אברהם ישראלי הי''ו",
+            "sum": null,
+            "objectives": 1595,
+            "Percent": ""
+        },
+        {
+            "ID": 931,
+            "LastName": "ישראלי",
+            "FirstName": "יצחק",
+            "WebName": "הר''ר יצחק ישראלי הי''ו",
+             "sum": "1435.00",
+            "objectives": 3465,
+            "Percent": "41"
+        },
+        {
+            "ID": 870,
+            "LastName": "ישראלי",
+            "FirstName": "יעקב",
+            "WebName": "הר''ר יעקב ישראלי הי''ו",
+              "sum": null,
+            "objectives": 1191,
+            "Percent": ""
+        },
+        {
+            "ID": 1133,
+            "LastName": "ישראלי",
+            "FirstName": "משה",
+            "WebName": "הר''ר משה ישראלי הי''ו",
+                "sum": null,
+            "objectives": 796,
+            "Percent": ""
+        },
+        {
+            "ID": 911,
+            "LastName": "כהן",
+            "FirstName": "אהרן",
+            "WebName": "הר''ר אהרן כהן הי''ו",
+             "sum": "1900.00",
+            "objectives": 1410,
+            "Percent": "134"
+        },
+        {
+            "ID": 842,
+            "LastName": "ישראלי",
+            "FirstName": "דוד",
+            "WebName": "הר''ר דוד ישראלי הי''ו",
+             "sum": "108.55",
+            "objectives": 1016,
+            "Percent": "10"
+        },
+        {
+            "ID": 734,
+            "LastName": "ישראלי",
+            "FirstName": "שלמה",
+            "WebName": "הר''ר שלמה ישראלי הי''ו",
+             "sum": null,
+            "objectives": 791,
+            "Percent": ""
+        },
+        {
+            "ID": 1169,
+            "LastName": "ישראלי",
+            "FirstName": "יוסף",
+            "WebName": "הר''ר יוסף ישראלי הי''ו",
+          "sum": null,
+            "objectives": 750,
+            "Percent": ""
+        },
+        {
+            "ID": 1335,
+            "LastName": "ישראלי",
+            "FirstName": "ראובן",
+            "WebName": "הר''ר ראובן ישראלי הי''ו",
+              "sum": null,
+            "objectives": 1261,
+            "Percent": ""
+        },
+        {
+            "ID": 770,
+            "LastName": "ישראלי",
+            "FirstName": "שמעון",
+            "WebName": "הר''ר שמעון ישראלי הי''ו",
+              "sum": "96.50",
+            "objectives": 1163,
+            "Percent": "8"
+        },
+        {
+            "ID": 737,
+            "LastName": "ישראלי",
+            "FirstName": "לוי",
+            "WebName": "הר''ר לוי ישראלי הי''ו",
+             "sum": "830.00",
+            "objectives": 2244,
+            "Percent": "36"
+        },
+        {
+            "ID": 751,
+            "LastName": "ישראלי",
+            "FirstName": "יששכר",
+            "WebName": "הר''ר ישככר ישראלי הי''ו",
+            "sum": "486.20",
+            "objectives": 1438,
+            "Percent": "33"
+        },
+        {
+            "ID": 1025,
+            "LastName": "ישראלי",
+            "FirstName": "זבולון",
+            "WebName": "הר''ר זבולון ישראלי הי''ו",
+            "sum": null,
+            "objectives": 2098,
+            "Percent": ""
+        },
+        {
+            "ID": 894,
+            "LastName": "ישראלי",
+            "FirstName": "דן",
+            "WebName": "הר''ר דן ישראלי הי''ו",
+           "sum": "1795.00",
+            "objectives": 1630,
+            "Percent": "110"
+        },
+        {
+            "ID": 1169,
+            "LastName": "ישראלי",
+            "FirstName": "נפתלי",
+            "WebName": "הר''ר אברהם ישראלי הי''ו",
+          "sum": null,
+            "objectives": 750,
+            "Percent": ""
+        },
+        {
+            "ID": 1269,
+            "LastName": "ישראלי",
+            "FirstName": "גד",
+            "WebName": "הר''ר גד ישראלי הי''ו",
+          "sum": null,
+            "objectives": 750,
+            "Percent": ""
+        },
+        {
+            "ID": 1167,
+            "LastName": "ישראלי",
+            "FirstName": "אשר",
+            "WebName": "הר''ר אשר ישראלי הי''ו",
+          "sum": null,
+            "objectives": 750,
+            "Percent": ""
+        },
+        {
+            "ID": 250,
+            "LastName": "ישראלי",
+            "FirstName": "בנימין",
+            "WebName": "הר''ר בנימין ישראלי הי''ו",
+          "sum": null,
+            "objectives": 750,
+            "Percent": ""
+        }
+        ,
+        {
+            "ID": 250,
+            "LastName": "ישראלי",
+            "FirstName": "מנשה",
+            "WebName": "הר''ר מנשה ישראלי הי''ו",
+          "sum": null,
+            "objectives": 750,
+            "Percent": ""
+        },
+        {
+            "ID": 250,
+            "LastName": "ישראלי",
+            "FirstName": "אפרים",
+            "WebName": "הר''ר אפרים ישראלי הי''ו",
+          "sum": null,
+            "objectives": 750,
+            "Percent": ""
+        }
+    ]
+    }
